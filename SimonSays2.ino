@@ -2,6 +2,7 @@
 
 Originaly made by Robert Spann
 Code trimmed and sound effects added by digimike
+Modified and serial added by Charlie Oniszczuk and JenMen
 
 Buttons are to be set on there designated pins without pull down resistors
 and connected to ground rather then +5.
